@@ -1,2 +1,1 @@
-# fremtid
-Mix104 program
+# mix104
